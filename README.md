@@ -20,7 +20,9 @@ triângulo algum, se a é o maior).
 
 4) Implementar uma função que retorne verdadeiro se o número for primo
 (falso caso contrário). Testar de 1 a 100.
-
+ 
 5) Escreva uma função que:
 a) Receba uma frase como parâmetro.
 b) Retorne uma nova frase com cada palavra com as letras invertidas.
+
+6) Criar uma interface gráfica de uma calculadora de IMC
