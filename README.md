@@ -26,3 +26,4 @@ a) Receba uma frase como parâmetro.
 b) Retorne uma nova frase com cada palavra com as letras invertidas.
 
 6) Criar uma interface gráfica de uma calculadora de IMC
+7) Criar uma calculadora de IMC que armazene os dados em um BD
